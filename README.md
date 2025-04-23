@@ -16,7 +16,7 @@ To leverage my knowledge and hands-on experience in cybersecurity, with a partic
 |-----------------------------------------------|----------------------------|
 | Detection Lab Snort IDS/IPS          | <a href="https://github.com/HashSayd/Detection-Lab-Snort-IDS-IPS-/tree/main">Snort IDS/IPS Lab</a>|
 | SIEM Elastic Search Lab  | <a href="https://github.com/HashSayd/Elastic-Search-Lab-">Elastic Search Lab</a>|
-| Pythin Scripting Fundenmentals         | <a href="https://github.com/HashSayd/Python-Scripting-Project/blob/main/README.md"> Python scripting b|
+| Python Scripting Fundenmentals         | <a href="https://github.com/HashSayd/Python-Scripting-Project/blob/main/README.md"> Python scripting|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
