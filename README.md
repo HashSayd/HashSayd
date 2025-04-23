@@ -18,7 +18,7 @@ To leverage my knowledge and hands-on experience in cybersecurity, with a partic
 | SIEM Elastic Search Lab  | <a href="https://github.com/HashSayd/Elastic-Search-Lab-">Elastic Search Lab</a>|
 | Python Scripting Fundenmentals         | <a href="https://github.com/HashSayd/Python-Scripting-Project/blob/main/README.md"> Python scripting|
 | Cybersecurity Network Set Up      | <a href="https://github.com/HashSayd/Cybersecurity-Network-Set-up-/blob/main/README.md"> Cybersecurity Network Set Up|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Mastercard Cybersecurity Analyst                 | <a href="https://github.com/HashSayd/MasterCard-Cybersecurity-Job-Simulation"> Mastercard Cybersecurity Analyst
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
