@@ -15,7 +15,7 @@ To leverage my knowledge and hands-on experience in cybersecurity, with a partic
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Detection Lab Snort IDS/IPS          | <a href="https://github.com/HashSayd/Detection-Lab-Snort-IDS-IPS-/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Elastic Search Lab  | <a href="https://github.com/HashSayd/Elastic-Search-Lab-">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
