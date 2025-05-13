@@ -1,7 +1,7 @@
 # Hello, I'm Hashim!
 <a href="https://linkedin.com/in/hashim-h-4a1707194"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a deep passion for cybersecurity, network security, and solving complex problems. With a strong foundation in security tools, SIEM platforms, and incident response, I am eager to contribute my skills to the cybersecurity community. I aim to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can continuously grow and challenge myself.
+I am cybersecurity professional with a deep passion for cybersecurity, network security, and solving complex problems. With a strong foundation in security tools, SIEM platforms, and incident response, I am eager to contribute my skills to the cybersecurity community. I aim to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can continuously grow and challenge myself.
 
 
 
